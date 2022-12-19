@@ -1,7 +1,8 @@
 #include"main.h"
 /**
  * main - Swap two numbers
- *
+ * @a: first number
+ * @b: second number
  *Return: none
 */
 
